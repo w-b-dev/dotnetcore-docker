@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DANIEL\\code\\x_playground\\dotnet_container\\app\\myapp.csproj": {}
+  },
+  "projects": {
+    "C:\\DANIEL\\code\\x_playground\\dotnet_container\\app\\myapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DANIEL\\code\\x_playground\\dotnet_container\\app\\myapp.csproj",
+        "projectName": "myapp",
+        "projectPath": "C:\\DANIEL\\code\\x_playground\\dotnet_container\\app\\myapp.csproj",
+        "packagesPath": "C:\\Users\\dsantos\\.nuget\\packages\\",
+        "outputPath": "C:\\DANIEL\\code\\x_playground\\dotnet_container\\app\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dsantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

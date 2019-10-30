@@ -1,0 +1,11 @@
+C:\DANIEL\code\x_playground\dotnet_container\app\bin\Debug\netcoreapp2.1\myapp.deps.json
+C:\DANIEL\code\x_playground\dotnet_container\app\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.json
+C:\DANIEL\code\x_playground\dotnet_container\app\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.dev.json
+C:\DANIEL\code\x_playground\dotnet_container\app\bin\Debug\netcoreapp2.1\myapp.dll
+C:\DANIEL\code\x_playground\dotnet_container\app\bin\Debug\netcoreapp2.1\myapp.pdb
+C:\DANIEL\code\x_playground\dotnet_container\app\obj\Debug\netcoreapp2.1\myapp.csprojAssemblyReference.cache
+C:\DANIEL\code\x_playground\dotnet_container\app\obj\Debug\netcoreapp2.1\myapp.csproj.CoreCompileInputs.cache
+C:\DANIEL\code\x_playground\dotnet_container\app\obj\Debug\netcoreapp2.1\myapp.AssemblyInfoInputs.cache
+C:\DANIEL\code\x_playground\dotnet_container\app\obj\Debug\netcoreapp2.1\myapp.AssemblyInfo.cs
+C:\DANIEL\code\x_playground\dotnet_container\app\obj\Debug\netcoreapp2.1\myapp.dll
+C:\DANIEL\code\x_playground\dotnet_container\app\obj\Debug\netcoreapp2.1\myapp.pdb
