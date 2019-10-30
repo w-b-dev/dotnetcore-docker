@@ -1,5 +1,7 @@
-FROM mcr.microsoft.com/dotnet/core/runtime:2.1
+FROM mcr.microsoft.com/dotnet/core/sdk:3.0
 
-COPY app/bin/Release/netcoreapp2.1/publish/ app/
+WORKDIR /src
 
-ENTRYPOINT ["dotnet", "app/myapp.dll"]
+COPY ./app .
+
+ENTRYPOINT ["dotnet", "run"]
